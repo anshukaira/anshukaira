@@ -8,11 +8,11 @@
 
 ---
 
-![some image](https://in.pinterest.com/pin/660340364086512012/)
+![some image](https://github.com/anshukaira/anshukaira/deku.jpeg)
 
 ## Github Stats (✿◠‿◠)
 
-[![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs, &count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukaira&layout=compact&theme=monokai&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
