@@ -15,8 +15,6 @@
 [![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs,stars&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukaira&layout=compact&theme=vue&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<br>
-<br>
 <h2><b>(っ◔◡◔)っ 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </b><h2><img align = "right"  src="https://github.com/anshukaira/anshukaira/blob/master/bakugo.jpeg" alt="image" width="100" height="120"> 
 
 [<img align="left" alt="anshu | Twitter" width="65px" src="https://github.com/anshukaira/anshukaira/blob/master/tweet.png" />][twitter]
