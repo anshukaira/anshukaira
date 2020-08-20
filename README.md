@@ -1,4 +1,4 @@
-## Anshu here!!! >\_<🎧
+## Anshu here!!! >\_< 🎧
 
 ### I'm a Student, Developer, and an anime lover!
 
@@ -6,6 +6,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
 - 🌸 And I love anime and mangas!!
+
+---
 
 ### Connect with me:
 
