@@ -1,15 +1,15 @@
-## Anshu here!!! >\_< 🎧
+## Anshu here!!! (｡◕‿◕｡)
 
 ### I'm a Student, Developer, and an anime lover!
 
-- 💜 I’m currently learning something, (like whatever i see, i just try to do that)
+- 💜 I’m currently learning something, (like whatever i see, i just try to do that) ヘ( ^o^)ノ
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
 - 🌸 And I love anime and mangas!!
 
 ---
 
-### Connect with me:
+### Connect with me ~(˘▾˘~):
 
 [<img align="left" alt="anshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,7 +20,7 @@
 
 ---
 
-## Github Stats
+## Github Stats (✿◠‿◠)
 
 [![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
