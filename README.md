@@ -9,7 +9,7 @@
 - 🌸 I love to draw And I love anime and mangas!!
 <br><br>
 
-## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "center" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="110" height="140">
+## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "left" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="100" height="130">
 
 ![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs,stars&count_private=true&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukaira&layout=compact&theme=vue&hide=tex)
 
