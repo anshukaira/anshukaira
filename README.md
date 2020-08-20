@@ -8,7 +8,7 @@
 
 ---
 
-![some image](https://github.com/anshukaira/anshukaira/deku.jpeg)
+![some image](https://github.com/anshukaira/anshukaira/blob/master/deku.jpeg)
 
 ## Github Stats (✿◠‿◠)
 
