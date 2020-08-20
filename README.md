@@ -1,6 +1,6 @@
-### Anshu here!!! >\_<👋
+## Anshu here!!! >\_<🎧
 
-## I'm a Student, Developer, and an anime lover!
+### I'm a Student, Developer, and an anime lover!
 
 - 💜 I’m currently learning something, (like whatever i see, i just try to do that)
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -18,8 +18,7 @@
 
 ---
 
-<details>
-  <summary> Github Stats</summary>
+## Github Stats
 
 [![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,7 +32,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 -->
-</details>
 
 [twitter]: https://twitter.com/kairahiwatari
 [instagram]: https://instagram.com/kaira__17
