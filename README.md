@@ -20,8 +20,6 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-<!-->
-  <img align="left" alt="anshukaira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshukaira&show_icons=true&hide_border=true" /> -->
 
 [![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
