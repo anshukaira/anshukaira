@@ -12,7 +12,7 @@
 ## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ
 <img align = "center" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="110" height="140">
 
-[![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs,stars&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukaira&layout=compact&theme=vue&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs,stars&count_private=true&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukaira&layout=compact&theme=vue&hide=tex)
 
 <br>
 <h2><b>(っ◔◡◔)っ 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </b><h2><img align = "right"  src="https://github.com/anshukaira/anshukaira/blob/master/bakugo.jpeg" alt="image" width="100" height="120"> 
@@ -31,4 +31,4 @@
 
 <!--comment--6da4ce7d64eadc234f44da969d874fc3637b7999-->
 <!--https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg-
-<!--
+<!--(https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
