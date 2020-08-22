@@ -25,7 +25,7 @@
 
 [twitter]: https://twitter.com/kairahiwatari
 [instagram]: https://instagram.com/kaira__17
-[linkedin]: https://linkedin.com/in/anshukaira
+[linkedin]: https://www.linkedin.com/in/anshu-kaira/
 
 
 <!--comment--6da4ce7d64eadc234f44da969d874fc3637b7999-->
