@@ -9,6 +9,7 @@
 - 🌸 I love to draw And I love watching anime and reading mangas!!
 - 🌲 Soon my exams are gonna start.
 - 🐰 I am thinking of studying, Gambatteee to me!!!
+- Baka is my 💜
 <br><br>
 
 ## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "center" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="100" height="130">
