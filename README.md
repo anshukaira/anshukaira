@@ -6,7 +6,9 @@
 
 - 💜 I’m currently learning something, (like whatever i see, i just try to do that) ヘ( ^o^)ノ
 - 🥅 2020 Goals: Contribute more to Open Source projects (hopeFuLLy)
-- 🌸 I love to draw And I love anime and mangas!!
+- 🌸 I love to draw And I love watching anime and reading mangas!!
+- 🌲 Soon my exams are gonna start.
+- 🐰 I am thinking of studying, Gambatteee to me!!!
 <br><br>
 
 ## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "center" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="100" height="130">
