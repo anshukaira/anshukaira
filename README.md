@@ -7,8 +7,8 @@
 - 💜 I’m currently learning something, (like whatever i see, i just try to do that) ヘ( ^o^)ノ
 - 🥅 2020 Goals: Contribute more to Open Source projects (hopeFuLLy)
 - 🌸 I love to draw And I love watching anime and reading mangas!!
-- 🌲 Soon my exams are gonna start.
-- 🐰 I am thinking of studying, Gambatteee to me!!!
+- 🌲 My exams aint going on for now, and I have started working on ReactJS, AWS, NextJS, DynamoDB.(Still a newbieee)
+- 🐰 Right now I dont think much..!(Why do u even care for reading my profile, there aint any cool stuff in here.)
 <br><br>
 
 ## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "center" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="100" height="130">
