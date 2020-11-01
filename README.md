@@ -5,10 +5,10 @@
 ### 𝙸'𝚖 𝚊 𝚂𝚝𝚞𝚍𝚎𝚗𝚝, 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚊𝚗𝚍 𝚊𝚗 𝚊𝚗𝚒𝚖𝚎 𝚕𝚘𝚟𝚎𝚛!
 
 - 💜 I’m currently learning something, (like whatever i see, i just try to do that) ヘ( ^o^)ノ
-- 🥅 2020 Goals: Contribute more to Open Source projects (hopeFuLLy)
-- 🌸 I love to draw And I love watching anime and reading mangas!!
+- 🥅 2020 Goals: Contribute more to Open Source projects (hopeFuLLy) and keeping my mind @ peace (ThiIs coRonAA is making me go mad)
+- 🌸 I love to draw And I love watching anime and reading mangas and fiction novels!!
 - 🌲 My exams aint going on for now, and I have started working on ReactJS, AWS, NextJS, DynamoDB.(Still a newbieee)
-- 🐰 Right now I dont think much..!(Why do u even care for reading my profile, there aint any cool stuff in here.)
+- 🐰 These days I dont think much.. ummm well I never do!(Why do u even care for reading my profile, there aint any cool stuff in here.)
 <br><br>
 
 ## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "center" src="https://github.com/anshukaira/anshukaira/blob/master/shoto.jpeg" alt="image" width="100" height="130">
