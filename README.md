@@ -18,14 +18,12 @@
 <br>
 <h2><b>(っ◔◡◔)っ 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </b><h2><img align = "right"  src="https://github.com/anshukaira/anshukaira/blob/master/bakugo.jpeg" alt="image" width="100" height="120"> 
 
-[<img align="left" alt="anshu | Twitter" width="65px" src="https://github.com/anshukaira/anshukaira/blob/master/tweet.png" />][twitter]
 [<img align="left" alt="anshu | LinkedIn" width="65px" src="https://github.com/anshukaira/anshukaira/blob/master/ld.png" />][linkedin]
 [<img align="left" alt="anshu | Instagram" width="65px" src="https://github.com/anshukaira/anshukaira/blob/master/insta.png" />][instagram]
 
 <br />
 <br />
 
-[twitter]: https://twitter.com/kairahiwatari
 [instagram]: https://instagram.com/kaira__17
 [linkedin]: https://www.linkedin.com/in/anshu-kaira/
 
