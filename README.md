@@ -17,8 +17,8 @@
 <br>
 <h2><b>(っ◔◡◔)っ 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </b><h2><img align = "right"  src="https://github.com/anshukaira/anshukaira/blob/master/bakugo.jpeg" alt="image" width="100" height="120"> 
 
-[<img align="left" alt="anshu | LinkedIn" width="65px" src="https://github.com/anshukaira/anshukaira/blob/master/ld.png" />][linkedin]
-[<img align="left" alt="anshu | Behance" width="65px" src="https://github.com/anshukaira/anshukaira/blob/master/behance.png" />][behance]
+[<img align="left" alt="anshu | LinkedIn" width="55px" src="https://github.com/anshukaira/anshukaira/blob/master/linkedin.png" />][linkedin]
+[<img align="left" alt="anshu | Behance" width="55px" src="https://github.com/anshukaira/anshukaira/blob/master/behance.png" />][behance]
 
 <br />
 <br />
