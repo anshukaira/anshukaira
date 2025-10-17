@@ -7,7 +7,7 @@
 - 🌸 You might catch me watching anime, reading manga, novels or drawing something somewhere!!
 - 🐰 Certified overthinker. 
 
-## ᗰY GITᕼᑌᗷ'ᔕ ᔕTᗩTᔕ<img align = "center" 
+## ᗰY GITᕼᑌᗷ'S STᗩTS
 
 ![Anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshukaira&hide=prs,stars&count_private=true&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshukaira&layout=compact&theme=vue&hide=tex)
 
